@@ -1,4 +1,4 @@
-## Low-**F<sub>ST</sub>**, High-Diversity Regions — Atlantic vs. Pacific Herring Genomic Comparison  
+## Low-*F<sub>ST</sub>*, High-Diversity Regions — Atlantic vs. Pacific Herring Genomic Comparison  
 
 This repository contains the scripts and data used to identify and analyze genomic regions of low F<sub>ST</sub> and high diversity in a comparative study between Atlantic and Pacific herring.  
 
