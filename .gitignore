@@ -1,0 +1,10 @@
+*.tmp
+*.log
+*.csv~
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Thumbs.db
+.vscode/
